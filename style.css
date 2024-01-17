@@ -16,6 +16,11 @@ body {
     transform: perspective(1000px) rotateY(0deg);
     transition: .8s ease-in-out;
 }
+.image-container h1 {
+    color: #fff;
+    font-size: 3rem;
+    white-space: nowrap;
+}
 .image-container span {
     position: absolute;
     top: 0;
